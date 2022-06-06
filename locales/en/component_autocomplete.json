@@ -1,0 +1,36 @@
+{
+  "openDirections": "Открытые направления",
+  "hotCities": "Популярные города",
+  "nearestAirports": "Ближайшие аэропорта",
+  "history": "История поисков",
+  "searchedFrom": "Вы уже искали из",
+  "searchPlaceholder": "Город, страна или аэропорт",
+  "anywhere": {
+    "label": "Куда можно",
+    "description": "Билеты по всему миру"
+  },
+  "openDirection": {
+    "minPrice": "от <price></price>"
+  },
+  "airport": {
+    "label": "Аэропорт <name></name>, <iata></iata>",
+    "location": "<city></city>, <country></country>"
+  },
+  "country": {
+    "cities": "Все города <country></country>",
+    "open": "Открыто для туристов",
+    "closed": "Закрыто для туристов",
+    "learnPrices": "Проверьте цены"
+  },
+  "city": {
+    "label": "<city></city>, <iata></iata>",
+    "noAirport": "Нет аэропорта",
+    "location": "<distance></distance> от г. <city></city>"
+  },
+  "distance": "{{ n }} {{ units }}",
+  "passengers": "{{ n }} чел",
+  "allDestinations": "Все направления",
+  "notFoundTitle": "Ничего не нашли",
+  "notFoundText": "Проверьте, правильно ли вы написали название",
+  "someNewKey": "Новый ключ который надо перевести"
+}
